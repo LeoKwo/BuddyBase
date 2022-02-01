@@ -4,11 +4,11 @@ This app is designed to find friends for the user to connect to. It allows users
 
 Here are some slides for this project:
 
-![demo](img/demo.jpg)
-![demo2](img/demo2.jpg)
-![demo3](img/demo3.jpg)
-![demo4](img/demo4.jpg)
-![demo5](img/demo5.jpg)
-![demo6](img/demo6.jpg)
-![demo7](img/demo7.jpg)
-![demo8](img/demo8.jpg)
+![demo](img/demo.jpeg)
+![demo2](img/demo2.jpeg)
+![demo3](img/demo3.jpeg)
+![demo4](img/demo4.jpeg)
+![demo5](img/demo5.jpeg)
+![demo6](img/demo6.jpeg)
+![demo7](img/demo7.jpeg)
+![demo8](img/demo8.jpeg)
