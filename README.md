@@ -6,7 +6,7 @@ Here are some slides for this project:
 
 ![demo](img/demo.jpeg)
 ![demo2](img/demo2.jpeg)
-![demo3](img/demo3.jpeg)
+![demo3](img/demo3.svg)
 ![demo4](img/demo4.jpeg)
 ![demo5](img/demo5.jpeg)
 ![demo6](img/demo6.jpeg)
